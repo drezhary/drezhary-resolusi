@@ -1,0 +1,8 @@
+RENCANA BELAJAR DREZHARY
+
+- Belajar javascript
+  * ES6
+  * Framework javascript
+- Belajar php framework
+- Belajar python
+- Belajar mysql
