@@ -4,6 +4,7 @@ RENCANA BELAJAR DREZHARY
   * ES6
   * Framework javascript
     ^ Vue
+    ^ React.js
 - Struktur Data Dasar
 - Belajar php framework
   ^ Laravel Framework
