@@ -3,7 +3,9 @@ RENCANA BELAJAR DREZHARY
 - Belajar javascript
   * ES6
   * Framework javascript
-- Struktur Data Dasar
+    ^ Angular
+    ^ React
 - Belajar php framework
+  ^ Laravel
 - Belajar python
 - Belajar mysql
